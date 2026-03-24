@@ -1,4 +1,4 @@
-//This is totally legit code
+//This is totally non-legit code
 
 public class Main{
 
